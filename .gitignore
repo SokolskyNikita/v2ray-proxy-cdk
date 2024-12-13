@@ -1,0 +1,11 @@
+# General ignores
+.DS_Store
+__pycache__
+cdk.context.json
+cdk.out
+node_modules
+package-lock.json
+
+# Project-specific ignores
+outputs.json
+reality-config.txt
